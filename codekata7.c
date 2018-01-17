@@ -5,7 +5,7 @@ int main(){
 	
 	scanf("%d",&a);
 	
-	if(a<1)
+	if(a < 1)
 	printf("Invalid output");
 	
 	for(i=0;i<a;i++)
