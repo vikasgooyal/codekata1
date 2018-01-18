@@ -6,7 +6,7 @@ int main()
 	scanf("%d",&n ,&m);
 	
 	if(n<0)
-	printf("No");
+	printf("0");
 	
 	else
 	{
@@ -20,4 +20,3 @@ printf("%d\t",p);
 
 }
 }
-
