@@ -5,9 +5,6 @@ int main()
 	
 	scanf("%d %d",&n ,&m);
 	
-	if(n<0)
-	printf("Invalid output");
-	
 	for(i=n+1 ; i < m ; i++)
 	{
 	
